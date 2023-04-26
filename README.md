@@ -1,4 +1,12 @@
+
 # Project
+This is project is primarliy to track customer issues with any of the following ADS (Azure Data Studio) extensions
+
+1. Oracle extension 
+2. Database Migration Assessment for Oracle (DMAO) 
+3. Database Schema Conversion Toolkit (DSCT) 
+4. Oracle Migrations
+
 
 > This repo has been populated by an initial template to help get you started. Please
 > make sure to update the content to build a great experience for community-building.
